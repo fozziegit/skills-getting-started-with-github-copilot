@@ -58,6 +58,12 @@ activities = {
         "max_participants": 10,
         "participants": ["harry@mergington.edu", "lucy@mergington.edu"]
     },
+    "Volleyball Team": {
+        "description": "Join the school volleyball team and compete in matches",
+        "schedule": "Fridays, 3:30 PM - 5:30 PM",
+        "max_participants": 12,
+        "participants": ["sarah@mergington.edu", "james@mergington.edu"]
+    },
     # Artistic activities
     "Art Workshop": {
         "description": "Explore painting, drawing, and sculpture techniques",
@@ -77,13 +83,8 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 16,
         "participants": ["ethan@mergington.edu", "isabella@mergington.edu"]
-    },
-    "Science Club": {
-        "description": "Conduct experiments and explore scientific concepts",
-        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
-        "max_participants": 14,
-        "participants": ["benjamin@mergington.edu", "charlotte@mergington.edu"]
     }
+    # "Science Club" removed
 }
 
 
