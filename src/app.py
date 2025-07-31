@@ -83,12 +83,6 @@ activities = {
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 14,
         "participants": ["benjamin@mergington.edu", "charlotte@mergington.edu"]
-    },
-    "Debate Team": {
-        "description": "Develop public speaking and argumentation skills in debates",
-        "schedule": "Mondays, 4:00 PM - 5:30 PM",
-        "max_participants": 12,
-        "participants": ["samuel@mergington.edu", "grace@mergington.edu"]
     }
 }
 
